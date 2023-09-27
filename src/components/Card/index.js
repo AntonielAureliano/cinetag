@@ -16,3 +16,5 @@ function Card({ id, titulo, capa }) {
 }
 
 export default Card;
+
+//id não está sendo referenciado na linha 4
